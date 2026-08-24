@@ -1,2 +1,2 @@
 # Housing-Prices
-Practicing multiple linear regression using a small amount of data on houses for sale gathered from zillow
+Practicing multiple linear regression to try and predict housing price based on a certain amount of input variables, using data gathered from zillow.
